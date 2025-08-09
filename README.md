@@ -5,8 +5,10 @@ This project analyzes U.S. traffic accident data to uncover key temporal pattern
 The goal is to provide data-driven, stakeholder-specific recommendations to improve road safety, optimize resource allocation, and guide infrastructure planning.  
 
 **Repository Contents:**  
-- 🎥 **Presentation Video** – 8–10 minute narrated summary of findings and recommendations.  
-- 📊 **Tableau Dashboard** – Interactive visualizations for temporal, spatial, and environmental analysis.  
+- 🎥 **Presentation Video** – 8–10 minute narrated summary of findings and recommendations.
+  https://share.icloud.com/photos/07eZLdgxgGSGzZzB_pRXXRVxw 
+- 📊 **Tableau Dashboard** – Interactive visualizations for temporal, spatial, and environmental analysis.
+  https://1drv.ms/u/c/d12d51d4faa6b51a/EcdjPpV84oBJgyq-jJZsjWABHYZ3clvXmqA7nZQjQIQMcQ?e=CS9wso   
 - 📓 **Notebook Report** – Detailed data exploration, cleaning, and analytical process in Jupyter Notebook format.  
 - 🐍 **Google Colab Notebook** – Python code for data preparation, analysis, and visualization in a cloud environment.  
 
@@ -39,11 +41,14 @@ The dataset includes:
 ---
 
 ## **How to Use**  
-1. **Watch the Video** for a complete overview of findings and recommendations.  
-2. **Explore the Tableau Dashboard** to interact with the data and filter by location, time, and conditions.  
-3. **Review the Notebook Report** to follow the analytical process and methodology.  
-4. **Run the Colab Notebook** to reproduce or extend the analysis.
-5. **Download the data from the site** https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+1. **Watch the Video** for a complete overview of findings and recommendations.
+   https://share.icloud.com/photos/07eZLdgxgGSGzZzB_pRXXRVxw 
+3. **Explore the Tableau Dashboard** to interact with the data and filter by location, time, and conditions.
+   https://1drv.ms/u/c/d12d51d4faa6b51a/EcdjPpV84oBJgyq-jJZsjWABHYZ3clvXmqA7nZQjQIQMcQ?e=CS9wso  
+4. **Review the Notebook Report** to follow the analytical process and methodology.  
+5. **Run the Colab Notebook** to reproduce or extend the analysis.
+6. **Download the data from the site**
+   https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 ---
 
